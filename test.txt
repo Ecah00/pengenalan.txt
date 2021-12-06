@@ -1,3 +1,7 @@
 hello
 selamat datang
-penambahan
+Subjek yang belajar
+   *web application
+   *bug fundamentals
+   *Software testing
+  
