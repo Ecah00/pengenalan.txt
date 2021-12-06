@@ -4,5 +4,3 @@ Rencana Konten
   -c++
   -html
   -css
-  -c
-  -python
